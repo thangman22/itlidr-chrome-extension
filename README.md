@@ -1,4 +1,6 @@
-# ITLIDR - I Think I Lost It Downstairs, Really
+# ITLIDR -  It Too Long I Don't Read
+
+![ITLIDR -  It Too Long I Don't Read](https://itlidr.thangman22.com/assets/og.png)
 
 ## Project setup
 ```
