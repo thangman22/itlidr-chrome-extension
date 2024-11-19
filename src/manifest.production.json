@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "ITLIDR - It Too Long I Don't Read",
     "description": "Summary Article / News for you with GenAI",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "icons": {
         "128": "icon128.png",
         "16": "icon16.png",
