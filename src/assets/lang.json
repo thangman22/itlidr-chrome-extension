@@ -19,7 +19,7 @@
     "pt": {"text": "Português", "label":"Portuguese"},
     "ru": {"text": "Русский", "label":"Russian"},
     "sv": {"text": "Svenska", "label":"Swedish"},
-    "th": {"text": "ภาษาไทย", "label":"Thailand"},
+    "th": {"text": "ภาษาไทย", "label":"Thai"},
     "tl": {"text": "Filipino", "label":"Filipino"},
     "tr": {"text": "Türkçe", "label":"Turkish"},
     "zh": {"text": "中文(台灣)", "label":"Chinese"},

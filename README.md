@@ -1,6 +1,6 @@
-# ITLIDR -  It Too Long I Don't Read
+# ITLIDR -  It's Too Long, I Don't Read
 
-![ITLIDR -  It Too Long I Don't Read](https://itlidr.thangman22.com/assets/og.png)
+![ITLIDR -  It's Too Long, I Don't Read](https://itlidr.thangman22.com/assets/og.png)
 
 ## Project setup
 ```
